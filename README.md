@@ -4,6 +4,7 @@ Foundations of Data Analysis with R is a course offered by University of Texas a
 
 
 **Foundations of Data Analysis 1**
+
 Course Outline
 
 Week One: Introduction to Data
